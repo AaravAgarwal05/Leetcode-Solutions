@@ -19,15 +19,14 @@ class AuthenticationManager {
     
     public int countUnexpiredTokens(int currentTime) {
         int count = 0;
-        Map<String, Integer> temp = new HashMap<>();
-        for(String token : map.keySet()) {
-            if(map.get(token) > currentTime) {
-                count++;
-                temp.put(token, map.get(token));
+        Iterator<Map.Entry<String, Integer>> it = map.entrySet().iterator();
+        while(it.hasNext()) {
+            Map.Entry<String, Integer> entry = it.next();
+            if(entry.getValue() <= currentTime) {
+                it.remove();
             }
         }
-        map = temp;
-        return count;
+        return map.size();
     }
 }
 
