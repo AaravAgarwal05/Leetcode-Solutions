@@ -42,8 +42,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1370-increasing-decreasing-string](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1370-increasing-decreasing-string) |
+| [1797-design-authentication-manager](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1797-design-authentication-manager) |
 ## Counting
 |  |
 | ------- |
 | [1370-increasing-decreasing-string](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1370-increasing-decreasing-string) |
+## Linked List
+|  |
+| ------- |
+| [1797-design-authentication-manager](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1797-design-authentication-manager) |
+## Design
+|  |
+| ------- |
+| [1797-design-authentication-manager](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1797-design-authentication-manager) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1797-design-authentication-manager](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1797-design-authentication-manager) |
 <!---LeetCode Topics End-->
