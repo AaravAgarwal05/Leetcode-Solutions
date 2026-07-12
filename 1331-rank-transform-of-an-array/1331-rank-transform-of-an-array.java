@@ -2,20 +2,15 @@ class Solution {
     public int[] arrayRankTransform(int[] arr) {
         int n = arr.length;
         int rank = 1;
-        PriorityQueue<Integer> pq = new PriorityQueue<>((a, b) -> a - b);
         Map<Integer, Integer> map = new HashMap<>();
+        int[] temp = Arrays.copyOf(arr, n);
         int[] result = new int[n];
+        Arrays.sort(temp);
         
-        for(int x : arr) {
-            pq.add(x);
-        }
-        
-        while(!pq.isEmpty()) {
-            if(!map.containsKey(pq.peek())) {
-                map.put(pq.peek(), rank++);
+        for(int x : temp) {
+            if(!map.containsKey(x)) {
+                map.put(x, rank++);
             }
-            
-            pq.poll();
         }
         
         for(int i = 0; i < n; i++) {
