@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1288-remove-covered-intervals](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1370-increasing-decreasing-string](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1370-increasing-decreasing-string) |
 | [1797-design-authentication-manager](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1797-design-authentication-manager) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0974-subarray-sums-divisible-by-k](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Union-Find
 |  |
