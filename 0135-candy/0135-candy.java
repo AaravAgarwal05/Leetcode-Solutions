@@ -12,8 +12,8 @@ class Solution {
         }
         
         for(int i = n - 2; i >= 0; i--) {
-            if(ratings[i] > ratings[i + 1] && dp[i] <= dp[i + 1]) {
-                dp[i] = dp[i + 1] + 1;
+            if(ratings[i] > ratings[i + 1]) {
+                dp[i] = Math.max(dp[i], dp[i + 1] + 1);
             }
         }
         
