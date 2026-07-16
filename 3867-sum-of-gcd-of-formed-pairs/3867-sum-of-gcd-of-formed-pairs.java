@@ -1,15 +1,15 @@
 class Solution {
     public long gcdSum(int[] nums) {
         int n = nums.length;
-        long max = Integer.MIN_VALUE;
-        long[] gcd = new long[n];
+        int max = Integer.MIN_VALUE;
+        int[] gcd = new int[n];
         int s = 0;
         int e = n - 1;
         long totalGCD = 0;
 
         for(int i = 0; i < n; i++) {
-            max = Math.max(max, (long)nums[i]);
-            gcd[i] = (long) calcGCD(max, (long)nums[i]);
+            max = Math.max(max, nums[i]);
+            gcd[i] = calcGCD(max, nums[i]);
         }
 
         Arrays.sort(gcd);
@@ -25,7 +25,7 @@ class Solution {
         return totalGCD;
     }
 
-    public long calcGCD(long a, long b) {
+    public int calcGCD(int a, int b) {
         if(b == 0) {
             return a;
         }
