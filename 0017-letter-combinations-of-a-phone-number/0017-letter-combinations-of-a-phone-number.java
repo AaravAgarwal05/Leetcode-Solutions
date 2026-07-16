@@ -1,5 +1,6 @@
 class Solution {
     public List<String> letterCombinations(String digits) {
+        int l = digits.length();
         Map<Integer, List<Character>> map = new HashMap<>();
         map.put(2, Arrays.asList('a', 'b', 'c'));
         map.put(3, Arrays.asList('d', 'e', 'f'));
@@ -9,29 +10,30 @@ class Solution {
         map.put(7, Arrays.asList('p', 'q', 'r', 's'));
         map.put(8, Arrays.asList('t', 'u', 'v'));
         map.put(9, Arrays.asList('w', 'x', 'y', 'z'));
+        Queue<String> queue = new LinkedList<>();
+        List<String> result = new ArrayList<>();
 
-        Queue<String> q = new LinkedList<>();
-        for(char x : map.get(digits.charAt(0) - '0')) {
-            q.add(Character.toString(x));
+        for(char ch : map.get(digits.charAt(0) - '0')) {
+            queue.add(Character.toString(ch));
         }
 
-        int n = q.size();
+        int cSize = queue.size();
 
-        for(int i = 1; i < digits.length(); i++) {
-            for(int j = 0; j < n; j++) {
-                String temp = q.poll();
-                for(char k : map.get(digits.charAt(i) - '0')) {
-                    q.add(temp + Character.toString(k));
+        for(int i = 1; i < l; i++) {
+            for(int j = 0; j < cSize; j++) {
+                String curr = queue.poll();
+                for(char ch : map.get(digits.charAt(i) - '0')) {
+                    queue.add(curr + Character.toString(ch));
                 }
             }
-            n = q.size();
+
+            cSize = queue.size();
         }
 
-        List<String> list = new ArrayList<>();
-        while(!q.isEmpty()) {
-            list.add(q.poll());
+        while(!queue.isEmpty()) {
+            result.add(queue.poll());
         }
 
-        return list;
+        return result;
     }
 }
