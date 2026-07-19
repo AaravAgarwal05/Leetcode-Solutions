@@ -1,33 +1,33 @@
 class Solution {
     public String smallestSubsequence(String s) {
-        int[] index = new int[26];
+        int[] freq = new int[26];
         boolean[] isPresent = new boolean[26];
-        Stack<Character> stack = new Stack<>();
+        Deque<Character> dq = new ArrayDeque<>();
 
-        for(int i = 0; i < s.length(); i++) {
-            index[s.charAt(i) - 'a'] = i;
+        for(char ch : s.toCharArray()) {
+            freq[ch - 'a']++;
         }
 
-        for(int i = 0; i < s.length(); i++) {
-            char ch = s.charAt(i);
+        for(char ch : s.toCharArray()) {
+            freq[ch - 'a']--;
 
             if(isPresent[ch - 'a']) {
                 continue;
             }
 
-            while(!stack.isEmpty() && stack.peek() > ch && index[stack.peek() - 'a'] > i) {
-                isPresent[stack.peek() - 'a'] = false;
-                stack.pop();
+            while(!dq.isEmpty() && dq.peekLast() > ch && freq[dq.peekLast() - 'a'] > 0) {
+                isPresent[dq.peekLast() - 'a'] = false;
+                dq.pollLast();
             }
 
-            stack.push(ch);
+            dq.offerLast(ch);
             isPresent[ch - 'a'] = true;
         }
 
         StringBuilder sb = new StringBuilder();
 
-        for(char ch : stack) {
-            sb.append(ch);
+        while(!dq.isEmpty()) {
+            sb.append(dq.pollFirst());
         }
 
         return sb.toString();
