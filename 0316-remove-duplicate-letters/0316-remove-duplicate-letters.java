@@ -2,7 +2,7 @@ class Solution {
     public String removeDuplicateLetters(String s) {
         int[] index = new int[26];
         boolean[] isPresent = new boolean[26];
-        Deque<Character> dq = new ArrayDeque<>();
+        Stack<Character> stack = new Stack<>();
 
         for(int i = 0; i < s.length(); i++) {
             index[s.charAt(i) - 'a'] = i;
@@ -10,24 +10,24 @@ class Solution {
 
         for(int i = 0; i < s.length(); i++) {
             char ch = s.charAt(i);
-            
+
             if(isPresent[ch - 'a']) {
                 continue;
             }
 
-            while(!dq.isEmpty() && dq.peekLast() > ch && index[dq.peekLast() - 'a'] > i) {
-                isPresent[dq.peekLast() - 'a'] = false;
-                dq.pollLast();
+            while(!stack.isEmpty() && stack.peek() > ch && index[stack.peek() - 'a'] > i) {
+                isPresent[stack.peek() - 'a'] = false;
+                stack.pop();
             }
 
-            dq.offerLast(ch);
+            stack.push(ch);
             isPresent[ch - 'a'] = true;
         }
 
         StringBuilder sb = new StringBuilder();
 
-        while(!dq.isEmpty()) {
-            sb.append(dq.pollFirst());
+        for(char ch : stack) {
+            sb.append(ch);
         }
 
         return sb.toString();
