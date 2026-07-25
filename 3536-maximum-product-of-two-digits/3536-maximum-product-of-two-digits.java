@@ -1,31 +1,20 @@
 class Solution {
     public int maxProduct(int n) {
-        Map<Integer, Integer> map = new HashMap<>();
-        
+        int max1 = 0;
+        int max2 = 0;
+
         while(n > 0) {
-            map.put(n % 10, map.getOrDefault(n % 10, 0) + 1);
+            int digit = n % 10;
+
+            if(digit > max1) {
+                max2 = max1;
+                max1 = digit;
+            } else if(digit > max2) {
+                max2 = digit;
+            }
+
             n /= 10;
         }
-
-        int product = 1;
-
-        for(int i = 9; i >= 0; i--) {
-            if(map.containsKey(i)) {
-                product *= i;
-                if(map.get(i) == 1) {
-                    map.remove(i);
-                }
-                break;
-            }
-        }
-
-        for(int i = 9; i >= 0; i--) {
-            if(map.containsKey(i)) {
-                product *= i;
-                break;
-            }
-        }
-
-        return product;
+        return max1 * max2;
     }
 }
