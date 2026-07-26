@@ -17,6 +17,7 @@ class Solution {
             } else if(x > max3) {
                 max3 = x;
             }
+            
             if(x < min1) {
                 min2 = min1;
                 min1 = x;
