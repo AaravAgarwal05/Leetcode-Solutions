@@ -9,20 +9,22 @@ class Solution {
         }
 
         for(int i = 0; i < 26; i++) {
-            int freq = map.getOrDefault((char)('a' + i), 0);
+            char curr = (char)('a' + i);
+            int freq = map.getOrDefault(curr, 0);
             
             if(freq == 0) {
                 continue;
             }
 
             if(freq % 2 == 1) {
-                odd = (char)('a' + i);
+                odd = curr;
             }
 
             for(int j = 0; j < freq / 2; j++) {
-                sb.append((char)('a' + i));
+                sb.append(curr);
             }
         }
+        
         if(odd != ' ') {
             return sb.toString() + odd + sb.reverse().toString();
         } else {
