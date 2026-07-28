@@ -12,17 +12,20 @@ class Solution {
     public ListNode reverseKGroup(ListNode head, int k) {
         List<Integer> list = new ArrayList<>();
         ListNode temp = head;
+        ListNode curr = new ListNode();
+        head = curr;
+        
         while(temp != null) {
             list.add(temp.val);
             temp = temp.next;
         }
+        
         for(int i = 0; i < list.size(); i += k) {
             if(i + k - 1 < list.size()) {
                 reverse(list, i, i + k - 1);
             }
         }
-        ListNode curr = new ListNode();
-        head = curr;
+        
         for(int x : list) {
             curr.next = new ListNode(x);
             curr = curr.next;
