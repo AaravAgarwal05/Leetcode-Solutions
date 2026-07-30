@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1370-increasing-decreasing-string](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1370-increasing-decreasing-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3227-vowels-game-in-a-string](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3227-vowels-game-in-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1370-increasing-decreasing-string](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1370-increasing-decreasing-string) |
 | [1797-design-authentication-manager](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1797-design-authentication-manager) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1370-increasing-decreasing-string](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1370-increasing-decreasing-string) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Linked List
@@ -185,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
