@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0486-predict-the-winner](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0575-distribute-candies](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0152-maximum-product-subarray](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0392-is-subsequence) |
+| [0486-predict-the-winner](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0583-delete-operation-for-two-strings](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1227-airplane-seat-assignment-probability](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1227-airplane-seat-assignment-probability) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0486-predict-the-winner](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1033-moving-stones-until-consecutive](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1033-moving-stones-until-consecutive) |
 | [1227-airplane-seat-assignment-probability](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1227-airplane-seat-assignment-probability) |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0486-predict-the-winner](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 ## Counting Sort
 |  |
 | ------- |
@@ -275,5 +279,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [3227-vowels-game-in-a-string](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3227-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
