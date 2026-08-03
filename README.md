@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
+| [1706-where-will-the-ball-fall](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1706-where-will-the-ball-fall) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [1260-shift-2d-grid](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
+| [1706-where-will-the-ball-fall](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1706-where-will-the-ball-fall) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3142-check-if-grid-satisfies-conditions) |
 ## Dynamic Programming
 |  |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
+| [1706-where-will-the-ball-fall](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1706-where-will-the-ball-fall) |
 | [3813-vowel-consonant-score](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3813-vowel-consonant-score) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
