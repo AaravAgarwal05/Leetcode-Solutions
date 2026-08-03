@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0135-candy](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0322-coin-change](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0072-edit-distance](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0152-maximum-product-subarray](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0322-coin-change](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0583-delete-operation-for-two-strings](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0133-clone-graph) |
+| [0322-coin-change](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [2685-count-the-number-of-complete-components](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Enumeration
@@ -314,4 +317,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
