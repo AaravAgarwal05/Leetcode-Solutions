@@ -6,18 +6,22 @@ class Solution {
         Arrays.fill(result, -1);
 
         for(int i = 0; i < c; i++) {
-            int cCol = i;
+            int currentCol = i;
+
             for(int j = 0; j < r; j++) {
-                int nextCol = cCol + grid[j][cCol];
+                int nextCol = currentCol + grid[j][currentCol];
+
                 if(nextCol < 0 || nextCol >= c) {
                     break;
                 }
-                if(grid[j][nextCol] != grid[j][cCol]) {
+                if(grid[j][nextCol] != grid[j][currentCol]) {
                     break;
                 }
-                cCol = nextCol;
+
+                currentCol = nextCol;
+
                 if(j == r - 1) {
-                    result[i] = cCol;
+                    result[i] = currentCol;
                 }
             }
         }
