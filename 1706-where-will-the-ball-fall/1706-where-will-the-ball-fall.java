@@ -12,18 +12,18 @@ class Solution {
                 int nextCol = currentCol + grid[j][currentCol];
 
                 if(nextCol < 0 || nextCol >= c) {
+                    currentCol = -1;
                     break;
                 }
                 if(grid[j][nextCol] != grid[j][currentCol]) {
+                    currentCol = -1;
                     break;
                 }
 
                 currentCol = nextCol;
-
-                if(j == r - 1) {
-                    result[i] = currentCol;
-                }
             }
+
+            result[i] = currentCol;
         }
 
         return result;
