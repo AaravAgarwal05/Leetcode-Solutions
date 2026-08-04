@@ -5,6 +5,7 @@ class Solution {
         List<Character> maxGroup = new ArrayList<>();
         int size = 0;
         int freq = 0;
+        StringBuilder sb = new StringBuilder();
 
         for(char ch : s.toCharArray()) {
             map.put(ch, map.getOrDefault(ch, 0) + 1);
@@ -25,8 +26,6 @@ class Solution {
                 freq = f;
             }
         }
-
-        StringBuilder sb = new StringBuilder();
 
         for(char ch : maxGroup) {
             sb.append(ch);
