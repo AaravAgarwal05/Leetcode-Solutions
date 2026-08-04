@@ -2,6 +2,9 @@ class Solution {
     public String majorityFrequencyGroup(String s) {
         Map<Character, Integer> map = new HashMap<>();
         Map<Integer, List<Character>> group = new HashMap<>();
+        List<Character> maxGroup = new ArrayList<>();
+        int size = 0;
+        int freq = 0;
 
         for(char ch : s.toCharArray()) {
             map.put(ch, map.getOrDefault(ch, 0) + 1);
@@ -15,16 +18,8 @@ class Solution {
             group.get(map.get(ch)).add(ch);
         }
 
-        List<Character> maxGroup = new ArrayList<>();
-        int size = 0;
-        int freq = 0;
-
         for(int f : group.keySet()) {
-            if(group.get(f).size() > size) {
-                maxGroup = group.get(f);
-                size = maxGroup.size();
-                freq = f;
-            } else if(group.get(f).size() == size && f > freq) {
+            if(group.get(f).size() > size || (group.get(f).size() == size && f > freq)) {
                 maxGroup = group.get(f);
                 size = maxGroup.size();
                 freq = f;
