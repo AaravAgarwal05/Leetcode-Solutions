@@ -2,18 +2,22 @@ class Solution {
     public List<Integer> findMissingElements(int[] nums) {
         int max = Integer.MIN_VALUE;
         int min = Integer.MAX_VALUE;
-        Set<Integer> seen = new HashSet<>();
         List<Integer> missing = new ArrayList<>();
 
         for(int num : nums) {
             max = Math.max(max, num);
             min = Math.min(min, num);
-            seen.add(num);
         }
 
-        for(int i = min; i <= max; i++) {
-            if(!seen.contains(i)) {
-                missing.add(i);
+        int[] freq = new int[max - min + 1];
+
+        for(int num : nums) {
+            freq[num - min]++;
+        }
+
+        for(int i = 0; i < max - min; i++) {
+            if(freq[i] == 0) {
+                missing.add(i + min);
             }
         }
 
