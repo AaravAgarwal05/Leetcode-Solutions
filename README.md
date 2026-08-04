@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0486-predict-the-winner](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
+| [0491-non-decreasing-subsequences](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0575-distribute-candies](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0877-stone-game) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0491-non-decreasing-subsequences](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0575-distribute-candies](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0575-distribute-candies) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0491-non-decreasing-subsequences](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0491-non-decreasing-subsequences](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0491-non-decreasing-subsequences) |
 ## Combinatorics
 |  |
 | ------- |
