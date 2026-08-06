@@ -14,8 +14,8 @@ class Solution {
         int maxDist = Integer.MIN_VALUE;
         int[] dist = new int[n + 1];
         Arrays.fill(dist, Integer.MAX_VALUE);
-        Queue<Integer> queue = new LinkedList<>();
-        queue.add(k);
+        PriorityQueue<int[]> queue = new PriorityQueue<>((a, b) -> a[1] - b[1]);
+        queue.offer(new int[]{k, 0});
         dist[k] = 0;
 
         for(int i = 0; i <= n; i++) {
@@ -30,7 +30,13 @@ class Solution {
         }
 
         while(!queue.isEmpty()) {
-            int curr = queue.poll();
+            int[] node = queue.poll();
+            int curr = node[0];
+            int currDist = node[1];
+
+            if(currDist > dist[curr]) {
+                continue;
+            }
 
             for(Edge e : graph.get(curr)) {
                 int newDist = dist[curr] + e.weight;
@@ -40,7 +46,7 @@ class Solution {
                 }
 
                 dist[e.to] = newDist;
-                queue.add(e.to);
+                queue.offer(new int[]{e.to, newDist});
             }
         }
 
