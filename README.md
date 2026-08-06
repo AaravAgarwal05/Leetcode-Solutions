@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-where-will-the-ball-fall](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1706-where-will-the-ball-fall) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-count-the-number-of-complete-components](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3310-remove-methods-from-project) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Two Pointers
@@ -374,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
