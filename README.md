@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0743-network-delay-time](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 ## Matrix
 |  |
 | ------- |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0133-clone-graph) |
+| [0743-network-delay-time](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [2685-count-the-number-of-complete-components](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0133-clone-graph) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0743-network-delay-time](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [2685-count-the-number-of-complete-components](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0133-clone-graph) |
 | [0322-coin-change](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0743-network-delay-time](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [2685-count-the-number-of-complete-components](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Enumeration
 |  |
@@ -341,4 +345,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0322-coin-change) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
