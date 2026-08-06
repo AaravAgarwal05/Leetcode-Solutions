@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0135-candy](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0041-first-missing-positive](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
