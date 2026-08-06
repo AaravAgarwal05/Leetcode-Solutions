@@ -14,8 +14,8 @@ class Solution {
         int maxDist = Integer.MIN_VALUE;
         int[] dist = new int[n + 1];
         Arrays.fill(dist, Integer.MAX_VALUE);
-        PriorityQueue<int[]> queue = new PriorityQueue<>((a, b) -> a[1] - b[1]);
-        queue.offer(new int[]{k, 0});
+        PriorityQueue<Edge> queue = new PriorityQueue<>((a, b) -> a.weight - b.weight);
+        queue.offer(new Edge(k, 0));
         dist[k] = 0;
 
         for(int i = 0; i <= n; i++) {
@@ -30,9 +30,9 @@ class Solution {
         }
 
         while(!queue.isEmpty()) {
-            int[] node = queue.poll();
-            int curr = node[0];
-            int currDist = node[1];
+            Edge node = queue.poll();
+            int curr = node.to;
+            int currDist = node.weight;
 
             if(currDist > dist[curr]) {
                 continue;
@@ -46,7 +46,7 @@ class Solution {
                 }
 
                 dist[e.to] = newDist;
-                queue.offer(new int[]{e.to, newDist});
+                queue.offer(new Edge(e.to, newDist));
             }
         }
 
