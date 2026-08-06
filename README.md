@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0743-network-delay-time](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Matrix
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0583-delete-operation-for-two-strings](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1227-airplane-seat-assignment-probability) |
 | [1406-stone-game-iii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0133-clone-graph) |
 | [0743-network-delay-time](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2685-count-the-number-of-complete-components](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0133-clone-graph) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0743-network-delay-time](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2685-count-the-number-of-complete-components](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -250,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0743-network-delay-time](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2685-count-the-number-of-complete-components](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Enumeration
 |  |
@@ -349,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
