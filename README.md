@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1227-airplane-seat-assignment-probability) |
 | [1406-stone-game-iii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3227-vowels-game-in-a-string](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3227-vowels-game-in-a-string) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [2396-strictly-palindromic-number](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2396-strictly-palindromic-number) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
