@@ -15,6 +15,7 @@ class Solution {
                 
                 if(!dp[i - square]) {
                     dp[i] = true;
+                    break;
                 }
             }
         }
