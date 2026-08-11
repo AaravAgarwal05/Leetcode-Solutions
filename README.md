@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1370-increasing-decreasing-string](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1370-increasing-decreasing-string) |
+| [2390-removing-stars-from-a-string](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3227-vowels-game-in-a-string](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3227-vowels-game-in-a-string) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1260-shift-2d-grid](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1706-where-will-the-ball-fall](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1706-where-will-the-ball-fall) |
+| [2390-removing-stars-from-a-string](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3813-vowel-consonant-score](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3813-vowel-consonant-score) |
 | [3834-merge-adjacent-equal-elements](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3834-merge-adjacent-equal-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2390-removing-stars-from-a-string](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3834-merge-adjacent-equal-elements](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3834-merge-adjacent-equal-elements) |
 ## Monotonic Stack
 |  |
