@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3731-find-missing-elements](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
+| [3834-merge-adjacent-equal-elements](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3834-merge-adjacent-equal-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1706-where-will-the-ball-fall](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1706-where-will-the-ball-fall) |
 | [3813-vowel-consonant-score](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3813-vowel-consonant-score) |
+| [3834-merge-adjacent-equal-elements](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3834-merge-adjacent-equal-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
 |  |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3834-merge-adjacent-equal-elements](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3834-merge-adjacent-equal-elements) |
 ## Monotonic Stack
 |  |
 | ------- |
