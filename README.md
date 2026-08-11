@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0901-online-stock-span](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 | [1797-design-authentication-manager](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1797-design-authentication-manager) |
 ## Doubly-Linked List
 |  |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Sliding Window
 |  |
@@ -422,4 +425,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
