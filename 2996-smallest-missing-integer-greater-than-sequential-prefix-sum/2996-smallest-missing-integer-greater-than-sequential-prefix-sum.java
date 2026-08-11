@@ -16,7 +16,7 @@ class Solution {
             pSum += nums[i];
         }
 
-        while(seen.contains(pSum++));
+        while(seen.contains(pSum++)) {}
 
         return pSum - 1;
     }
