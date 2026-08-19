@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2614-prime-in-diagonal](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2614-prime-in-diagonal) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3100-water-bottles-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3100-water-bottles-ii) |
 | [3227-vowels-game-in-a-string](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3227-vowels-game-in-a-string) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-where-will-the-ball-fall](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1706-where-will-the-ball-fall) |
 | [2073-time-needed-to-buy-tickets](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2390-removing-stars-from-a-string](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
+| [3100-water-bottles-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3100-water-bottles-ii) |
 | [3813-vowel-consonant-score](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3813-vowel-consonant-score) |
 | [3834-merge-adjacent-equal-elements](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3834-merge-adjacent-equal-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
