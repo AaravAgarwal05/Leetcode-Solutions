@@ -18,16 +18,15 @@ class Solution {
         }
 
         for(int i = 0; i < n; i++) {
-            for(int j = 0; j < n; j++) {
-                if(i != j && (i + j) != n - 1) {
-                    continue;
-                }
+            int num1 = nums[i][i];
+            int num2 = nums[i][n - 1 - i];
 
-                int num = nums[i][j];
+            if(!isNotPrime[num1] && num1 > maxPrime) {
+                maxPrime = num1;
+            }
 
-                if(!isNotPrime[num] && num > maxPrime) {
-                    maxPrime = num;
-                }
+            if(!isNotPrime[num2] && num2 > maxPrime) {
+                maxPrime = num2;
             }
         }
 
