@@ -482,4 +482,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3115-maximum-prime-difference](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3115-maximum-prime-difference) |
+## Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
