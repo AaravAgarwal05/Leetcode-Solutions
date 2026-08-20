@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-prime-in-diagonal](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2614-prime-in-diagonal) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3115-maximum-prime-difference](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3115-maximum-prime-difference) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-where-will-the-ball-fall](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1706-where-will-the-ball-fall) |
 | [2073-time-needed-to-buy-tickets](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2390-removing-stars-from-a-string](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3100-water-bottles-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3100-water-bottles-ii) |
 | [3813-vowel-consonant-score](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3813-vowel-consonant-score) |
 | [3834-merge-adjacent-equal-elements](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3834-merge-adjacent-equal-elements) |
