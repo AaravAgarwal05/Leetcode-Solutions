@@ -1,14 +1,14 @@
 class Solution {
     public boolean uniformArray(int[] nums1) {
         int smOdd = Integer.MAX_VALUE;
+        int allEven = 0;
+        int allOdd = 0;
 
         for(int x : nums1) {
             if(x % 2 == 1 && x < smOdd) {
                 smOdd = x;
             }
         }
-
-        int allEven = 0;
 
         for(int x : nums1) {
             if(x % 2 == 0 || (x - smOdd >= 1 && (x - smOdd) % 2 == 0)) {
@@ -19,8 +19,6 @@ class Solution {
         if(allEven == nums1.length) {
             return true;
         }
-
-        int allOdd = 0;
 
         for(int x : nums1) {
             if(x % 2 == 1 || (x - smOdd >= 1 && (x - smOdd) % 2 == 1)) {
