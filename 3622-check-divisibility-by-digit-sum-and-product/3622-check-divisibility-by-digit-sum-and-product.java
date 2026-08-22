@@ -1,7 +1,6 @@
 class Solution {
     public boolean checkDivisibility(int n) {
         int sum = sumOfPandS(n);
-        
         return n % sum == 0;
     }
 
