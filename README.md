@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1370-increasing-decreasing-string](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1370-increasing-decreasing-string) |
+| [1927-sum-game](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1927-sum-game) |
 | [2390-removing-stars-from-a-string](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
 | [1518-water-bottles](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1518-water-bottles) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1551-minimum-operations-to-make-array-equal) |
+| [1927-sum-game](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1927-sum-game) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -432,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1927-sum-game) |
 | [3227-vowels-game-in-a-string](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3227-vowels-game-in-a-string) |
 ## Minimax
 |  |
