@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2121-intervals-between-identical-elements](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2121-intervals-between-identical-elements) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2614-prime-in-diagonal](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2614-prime-in-diagonal) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1471-the-k-strongest-values-in-an-array) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
 | [2121-intervals-between-identical-elements](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2121-intervals-between-identical-elements) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Union-Find
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1927-sum-game) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
