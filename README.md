@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [0905-sort-array-by-parity](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1140-stone-game-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0905-sort-array-by-parity](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [1288-remove-covered-intervals](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1329-sort-the-matrix-diagonally](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1329-sort-the-matrix-diagonally) |
 | [1331-rank-transform-of-an-array](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0392-is-subsequence](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0556-next-greater-element-iii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0556-next-greater-element-iii) |
+| [0905-sort-array-by-parity](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [2396-strictly-palindromic-number](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2396-strictly-palindromic-number) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
