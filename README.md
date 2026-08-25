@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-sort-the-matrix-diagonally](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1329-sort-the-matrix-diagonally) |
 | [1331-rank-transform-of-an-array](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1471-the-k-strongest-values-in-an-array) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0743-network-delay-time](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 ## Matrix
