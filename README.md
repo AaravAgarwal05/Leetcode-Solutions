@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3692-majority-frequency-characters](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3692-majority-frequency-characters) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3813-vowel-consonant-score](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3813-vowel-consonant-score) |
 ## Hash Table
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3692-majority-frequency-characters](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3692-majority-frequency-characters) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3692-majority-frequency-characters](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3692-majority-frequency-characters) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Linked List
 |  |
 | ------- |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -371,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Number Theory
 |  |
 | ------- |
