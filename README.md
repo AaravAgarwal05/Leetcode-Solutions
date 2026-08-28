@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0135-candy](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0322-coin-change) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0072-edit-distance) |
+| [0139-word-break](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0392-is-subsequence) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0316-remove-duplicate-letters](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0392-is-subsequence](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0392-is-subsequence) |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0208-implement-trie-prefix-tree](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -536,5 +540,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
