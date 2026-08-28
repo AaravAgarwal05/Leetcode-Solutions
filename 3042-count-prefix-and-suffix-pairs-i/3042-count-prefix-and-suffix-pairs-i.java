@@ -1,13 +1,11 @@
 class Solution {
      private class Node {
         Node[] child;
-        boolean end;
-        List<Integer> indices;
+        int count;
 
         Node() {
             child = new Node[27];
-            end = false;
-            indices = new ArrayList<>();
+            count = 0;
         }
     }
 
@@ -18,7 +16,7 @@ class Solution {
             root = new Node();
         }
 
-        public void insert(String str, int idx) {
+        public void insert(String str) {
             int size = str.length();
 
             for(int i = 0; i < size; i++) {
@@ -34,14 +32,12 @@ class Solution {
                     }
                     
                     curr = curr.child[ch - 'a'];
-                    curr.indices.add(idx);
+                    curr.count++;
                 }
-
-                curr.end = true;
             }
         }
 
-        public List<Integer> search(String str) {
+        public int search(String str) {
             int size = str.length();
             Node curr = root;
 
@@ -49,33 +45,23 @@ class Solution {
                 char ch = str.charAt(i);
 
                 if(curr.child[ch - 'a'] == null) {
-                    return new ArrayList<>();
+                    return 0;
                 }
 
                 curr = curr.child[ch - 'a'];
             }
 
-            return curr.indices;
+            return curr.count;
         }
     }
 
     public int countPrefixSuffixPairs(String[] words) {
         Trie trie = new Trie();
-
-        for(int i = 0; i < words.length; i++) {
-            trie.insert(words[i], i);
-        }
-
         int count = 0;
 
-        for(int i = 0; i < words.length; i++) {
-            List<Integer> res = trie.search(words[i] + "{" + words[i]);
-
-            for(int idx : res) {
-                if(idx > i) {
-                    count++;
-                }
-            }
+        for(int i = words.length - 1; i >= 0; i--) {
+            count += trie.search(words[i] + "{" + words[i]);
+            trie.insert(words[i]);
         }
 
         return count;
