@@ -1,6 +1,6 @@
 class Solution {
      private class Node {
-        Map<String, Node> map;
+        Map<Integer, Node> map;
         int count;
 
         Node() {
@@ -22,7 +22,7 @@ class Solution {
             int sum = 0;
 
             for(int i = 0; i < size; i++) {
-                String key = str.charAt(i) + "," + str.charAt(size - i - 1);
+                int key = (str.charAt(i) << 8) | str.charAt(size - i - 1);
 
                 if(!curr.map.containsKey(key)) {
                     curr.map.put(key, new Node());
