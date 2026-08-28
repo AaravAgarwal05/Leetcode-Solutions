@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2614-prime-in-diagonal](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2614-prime-in-diagonal) |
+| [2679-sum-in-a-matrix](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2679-sum-in-a-matrix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1471-the-k-strongest-values-in-an-array](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
+| [2679-sum-in-a-matrix](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2679-sum-in-a-matrix) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3446-sort-matrix-by-diagonals](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3446-sort-matrix-by-diagonals) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
+| [2679-sum-in-a-matrix](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2679-sum-in-a-matrix) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 ## Matrix
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-sort-the-matrix-diagonally](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1329-sort-the-matrix-diagonally) |
 | [1706-where-will-the-ball-fall](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1706-where-will-the-ball-fall) |
 | [2614-prime-in-diagonal](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2614-prime-in-diagonal) |
+| [2679-sum-in-a-matrix](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2679-sum-in-a-matrix) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
@@ -415,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-where-will-the-ball-fall](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1706-where-will-the-ball-fall) |
 | [2073-time-needed-to-buy-tickets](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2390-removing-stars-from-a-string](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
+| [2679-sum-in-a-matrix](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2679-sum-in-a-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3100-water-bottles-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3100-water-bottles-ii) |
 | [3813-vowel-consonant-score](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3813-vowel-consonant-score) |
