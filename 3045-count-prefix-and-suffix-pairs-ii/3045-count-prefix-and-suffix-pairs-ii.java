@@ -1,34 +1,30 @@
 class Solution {
-     private class Node {
-        Map<Integer, Node> map;
+     private class TrieNode {
+        Map<Integer, TrieNode> children;
         int count;
 
-        Node() {
-            map = new HashMap<>();
+        TrieNode() {
+            children = new HashMap<>();
             count = 0;
         }
     }
 
     private class Trie {
-        Node root;
+        TrieNode root;
 
         Trie() {
-            root = new Node();
+            root = new TrieNode();
         }
 
         public int insert(String str) {
             int size = str.length();
-            Node curr = root;
+            TrieNode curr = root;
             int sum = 0;
 
             for(int i = 0; i < size; i++) {
-                int key = (str.charAt(i) << 8) | str.charAt(size - i - 1);
-
-                if(!curr.map.containsKey(key)) {
-                    curr.map.put(key, new Node());
-                }
-
-                curr = curr.map.get(key);
+                int key = str.charAt(i) * 26 + str.charAt(size - i - 1);
+                curr.children.putIfAbsent(key, new TrieNode());
+                curr = curr.children.get(key);
                 sum += curr.count;
             }
 
