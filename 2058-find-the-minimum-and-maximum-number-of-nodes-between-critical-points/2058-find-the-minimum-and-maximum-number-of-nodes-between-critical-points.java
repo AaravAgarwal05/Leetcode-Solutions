@@ -15,10 +15,19 @@ class Solution {
         ListNode curr = head.next;
         ListNode next = head.next.next;
         int idx = 1;
+        int fIdx = -1;
+        int lIdx = -1;
+        int min = Integer.MAX_VALUE;
 
         while(next != null) {
             if((curr.val > prev.val && curr.val > next.val) || (curr.val < prev.val && curr.val < next.val)) {
-                list.add(idx);
+                if(fIdx == -1) {
+                    fIdx = idx;
+                } 
+                if(lIdx != -1) {
+                    min = Math.min(min, idx - lIdx);
+                }
+                lIdx = idx;
             }
 
             idx++;
@@ -27,22 +36,10 @@ class Solution {
             next = next.next;
         }
 
-        if(list.size() < 2) {
+        if(fIdx == -1 || lIdx == -1 || min == Integer.MAX_VALUE) {
             return new int[]{-1, -1};
         }
 
-        if(list.size() == 2) {
-            int val = list.get(1) - list.get(0);
-            return new int[]{val, val};
-        }
-
-        int max = list.get(list.size() - 1) - list.get(0);
-        int min = Integer.MAX_VALUE;
-
-        for(int i = 1; i < list.size(); i++) {
-            min = Math.min(min, list.get(i) - list.get(i - 1));
-        }
-
-        return new int[]{min, max};
+        return new int[]{min, lIdx - fIdx};
     }
 }
