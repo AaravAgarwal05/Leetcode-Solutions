@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-prefix-and-suffix-search](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0745-prefix-and-suffix-search) |
 | [0877-stone-game](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
+| [0910-smallest-range-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0910-smallest-range-ii) |
 | [0922-sort-array-by-parity-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1140-stone-game-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0720-longest-word-in-dictionary](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0905-sort-array-by-parity](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
+| [0910-smallest-range-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0910-smallest-range-ii) |
 | [0922-sort-array-by-parity-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1288-remove-covered-intervals](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1329-sort-the-matrix-diagonally](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1329-sort-the-matrix-diagonally) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [0910-smallest-range-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0910-smallest-range-ii) |
 | [1033-moving-stones-until-consecutive](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1033-moving-stones-until-consecutive) |
 | [1140-stone-game-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1227-airplane-seat-assignment-probability](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1227-airplane-seat-assignment-probability) |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0435-non-overlapping-intervals](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0910-smallest-range-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0910-smallest-range-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1927-sum-game) |
