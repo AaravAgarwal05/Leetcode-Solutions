@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0556-next-greater-element-iii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [0583-delete-operation-for-two-strings](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
+| [0676-implement-magic-dictionary](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0676-implement-magic-dictionary) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0720-longest-word-in-dictionary](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0745-prefix-and-suffix-search](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0745-prefix-and-suffix-search) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0575-distribute-candies) |
+| [0676-implement-magic-dictionary](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0676-implement-magic-dictionary) |
 | [0720-longest-word-in-dictionary](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0745-prefix-and-suffix-search](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0745-prefix-and-suffix-search) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0676-implement-magic-dictionary](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0676-implement-magic-dictionary) |
 | [0745-prefix-and-suffix-search](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0745-prefix-and-suffix-search) |
 | [0901-online-stock-span](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 | [1797-design-authentication-manager](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1797-design-authentication-manager) |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
+| [0676-implement-magic-dictionary](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0676-implement-magic-dictionary) |
 | [0743-network-delay-time](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2685-count-the-number-of-complete-components](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -573,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0676-implement-magic-dictionary](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0676-implement-magic-dictionary) |
 | [0720-longest-word-in-dictionary](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0745-prefix-and-suffix-search](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0745-prefix-and-suffix-search) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
