@@ -34,8 +34,9 @@ class Solution {
 
         public int search(String str) {
             TrieNode curr = root;
-
-            for(int i = 0; i < str.length(); i++) {
+            int i;
+            
+            for(i = 0; i < str.length(); i++) {
                 char ch = str.charAt(i);
 
                 if(curr.children[ch - 'a'] == null) {
@@ -45,11 +46,11 @@ class Solution {
                 curr = curr.children[ch - 'a'];
                 
                 if(curr.end) {
-                    return i;
+                    break;
                 }
             }
 
-            return -1;
+            return i < str.length() ? i : -1;
         }
     }
 
@@ -63,13 +64,8 @@ class Solution {
         StringBuilder sb = new StringBuilder();
 
         for(String word : sentence.split(" ")) {
-            int res = trie.search(word);
-            if(res == -1) {
-                sb.append(word);
-            } else {
-                sb.append(word.substring(0, res + 1));
-            }
-
+            int idx = trie.search(word);
+            sb.append(idx == -1 ? word : word.substring(0, idx + 1));
             sb.append(" ");
         }
 
