@@ -24,7 +24,7 @@ class CustomStack {
     }
     
     public void increment(int k, int val) {
-        for(int i = 0; i < k && i < size; i++) {
+        for(int i = 0; i < k && i <= top; i++) {
             stack[i] += val;
         }
     }
