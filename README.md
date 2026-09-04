@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
+| [3376-minimum-time-to-break-locks-i](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3376-minimum-time-to-break-locks-i) |
 | [3446-sort-matrix-by-diagonals](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3446-sort-matrix-by-diagonals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3259-maximum-energy-boost-from-two-drinks](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3259-maximum-energy-boost-from-two-drinks) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3376-minimum-time-to-break-locks-i](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3376-minimum-time-to-break-locks-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
 |  |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0491-non-decreasing-subsequences](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [1386-cinema-seat-allocation](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
+| [3376-minimum-time-to-break-locks-i](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3376-minimum-time-to-break-locks-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2685-count-the-number-of-complete-components](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3310-remove-methods-from-project) |
+| [3376-minimum-time-to-break-locks-i](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3376-minimum-time-to-break-locks-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Enumeration
 |  |
@@ -465,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0491-non-decreasing-subsequences](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3376-minimum-time-to-break-locks-i](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3376-minimum-time-to-break-locks-i) |
 ## Combinatorics
 |  |
 | ------- |
@@ -631,4 +636,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
+## Bitmask
+|  |
+| ------- |
+| [3376-minimum-time-to-break-locks-i](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3376-minimum-time-to-break-locks-i) |
 <!---LeetCode Topics End-->
