@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3903-smallest-stable-index-i) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Binary Search
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Greedy
 |  |
 | ------- |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Bit Manipulation
 |  |
 | ------- |
