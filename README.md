@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0739-daily-temperatures](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0745-prefix-and-suffix-search](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0745-prefix-and-suffix-search) |
+| [0846-hand-of-straights](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
 | [0877-stone-game](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0910-smallest-range-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0910-smallest-range-ii) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0720-longest-word-in-dictionary](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0720-longest-word-in-dictionary) |
+| [0846-hand-of-straights](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
 | [0905-sort-array-by-parity](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0910-smallest-range-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0910-smallest-range-ii) |
 | [0922-sort-array-by-parity-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0676-implement-magic-dictionary](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0676-implement-magic-dictionary) |
 | [0720-longest-word-in-dictionary](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0745-prefix-and-suffix-search](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0745-prefix-and-suffix-search) |
+| [0846-hand-of-straights](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1370-increasing-decreasing-string](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1370-increasing-decreasing-string) |
@@ -385,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0435-non-overlapping-intervals](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0846-hand-of-straights](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
 | [0910-smallest-range-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0910-smallest-range-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
