@@ -5,24 +5,30 @@ class Solution {
         if(n % groupSize != 0) {
             return false;
         }
-
-        Map<Integer, Integer> map = new TreeMap<>();
+        
+        Arrays.sort(hand);
+        Map<Integer, Integer> map = new HashMap<>();
 
         for(int h : hand) {
             map.put(h, map.getOrDefault(h, 0) + 1);
         }
 
-        for(int key : map.keySet()) {
-            if(map.get(key) == 0) {
+        for(int h : hand) {
+            if(!map.containsKey(h)){
                 continue;
             }
 
-            for(int i = 1; i < groupSize; i++) {
-                if(!map.containsKey(key + i) || map.get(key + i) < map.get(key)) {
+            for(int i = h; i < h + groupSize; i++) {
+                if(!map.containsKey(i)) {
                     return false;
                 }
 
-                map.put(key + i, map.get(key + i) - map.get(key));
+                map.put(i, map.get(i) - 1);
+
+                if(map.get(i) == 0) {
+                    map.remove(i);
+                }
+
             }
         }
 
