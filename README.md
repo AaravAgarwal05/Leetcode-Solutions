@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0322-coin-change) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
