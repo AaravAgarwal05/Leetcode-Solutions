@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1706-where-will-the-ball-fall](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1706-where-will-the-ball-fall) |
 | [1765-map-of-highest-peak](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1765-map-of-highest-peak) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1370-increasing-decreasing-string](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1370-increasing-decreasing-string) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1927-sum-game) |
 | [2390-removing-stars-from-a-string](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2446-determine-if-two-events-have-conflict) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-increasing-decreasing-string](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1370-increasing-decreasing-string) |
 | [1386-cinema-seat-allocation](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1797-design-authentication-manager](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1797-design-authentication-manager) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2121-intervals-between-identical-elements](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2121-intervals-between-identical-elements) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
