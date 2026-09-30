@@ -18,11 +18,11 @@ class Solution {
                     temp.append(s.charAt(idx++));
                 }
 
-                sb.append(map.containsKey(temp.toString()) ? map.get(temp.toString()) : "?");
+                sb.append(map.getOrDefault(temp.toString(), "?"));
             } else {
                 sb.append(s.charAt(idx));
             }
-            
+
             idx++;
         }
 
