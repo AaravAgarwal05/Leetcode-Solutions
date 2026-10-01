@@ -41,7 +41,7 @@ class Solution {
         for(int i = 0; i < tasks.length; i++) {            
             time = Math.max(time, i);
 
-            if (free.isEmpty()) {
+            if(free.isEmpty()) {
                 time = Math.max(time, used.peek().time);
             }
 
