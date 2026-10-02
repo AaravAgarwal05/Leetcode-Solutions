@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-where-will-the-ball-fall](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1706-where-will-the-ball-fall) |
 | [1765-map-of-highest-peak](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1765-map-of-highest-peak) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1872-stone-game-viii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
 | [1882-process-tasks-using-servers](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1882-process-tasks-using-servers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AaravAgarwal05/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
